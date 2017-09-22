@@ -4,6 +4,15 @@
 
 Start an test app quickly
 
+## How to use
+
+	git clone https://github.com/arkgast/react-webpack-boilerplate
+	cd react-webpack-boilerplate
+	npm install
+	npm start
+
+Now go to [http://localhost:3000](http://localhost:3000) and start playing ;)
+
 ## Features
 
 * es6 support
