@@ -7,5 +7,6 @@ Start an test app quickly
 ## Features
 
 * es6 support
-* javascript linting
+* [javascript linting](https://eslint.org/docs/rules/)
+* [css linting](https://github.com/stylelint/stylelint/blob/master/docs/user-guide.md)
 * hot reload on development
